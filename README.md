@@ -23,4 +23,4 @@ We implement that stuff as a class
 
 ![Class](img/Class.png)
 
-e whole repository is based on the Udemy course [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/).
+The whole repository is based on the Udemy course [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/).
